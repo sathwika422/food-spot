@@ -1,0 +1,29 @@
+.navbar-design{
+    position: relative;
+    right:0px;
+}
+
+.flex-container-row{
+    display:flex;
+    flex-direction: row;
+    list-style-type: none;
+    /* position: absolute; */
+    /* float:right;
+    right:0px; */
+}
+
+.navbar-items{
+    margin:10px;
+    text-decoration: none;
+}
+
+.profile-option:hover .dropdown-menu{
+    display:block;
+}
+
+.dropdown-menu{
+    display:none;
+    position:absolute;
+    z-index: 1;
+    min-width:200px;
+}

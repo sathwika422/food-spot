@@ -1,0 +1,65 @@
+.login-page-waves-image{
+   
+}
+
+.login-form-title{
+    position: absolute;
+    text-align: center;
+    width:100%;
+}
+
+.form-main-content{
+    position:absolute;
+    border: 2px solid black;
+    width:80%;
+    height:138px;
+    margin: 87px 31px auto;
+}
+
+.input-box{
+    margin-left: 5px;
+    border-bottom:3px black;
+}
+
+.login-form-label{
+  
+    font-size: 11px;
+}
+
+.login-form-inputs{
+   font-size:13px;
+    margin: 5px;
+    border:none;
+}
+.login-page-wrapper{
+    background-image: url("../../loginImage.png");
+    background-size: cover;
+    position: fixed;
+    width:100%;
+    height:100%;
+    
+
+}
+
+.login-form{
+    border : 1px black;
+    height : 381px;
+    width : 321px;
+    box-shadow: 3px 8px 27px #807878;
+    margin:auto;
+    position: relative;
+    top: 73px;
+    border-radius: 6px;
+    border-style: solid;
+}
+
+.forgot-password-button{
+    position:absolute;
+    right:0px;
+    border:none;
+    background-color: inherit;
+}
+
+button:hover{
+    cursor: pointer;
+}
